@@ -11,7 +11,7 @@ var map = L.map('map', {
 
 // Edit links to your GitHub repo and data source credit
 map.attributionControl
-.setPrefix('View <a href="http://github.com/jackdougherty/otl-trolley">data and code on GitHub</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>; design by <a href="http://ctmirror.org">CT Mirror</a>');
+.setPrefix('View <a href="http://github.com/jackdougherty/otl-transit">data and code on GitHub</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>; design by <a href="http://ctmirror.org">CT Mirror</a>');
 
 // Basemap layer
 new L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
