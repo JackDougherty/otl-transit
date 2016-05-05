@@ -1,0 +1,25 @@
+GeoJSON properties,GIS Field Name,Units,Description,Notes
+,FID,-,Feature-specific Identification number,
+,Shape,-,Feature type,
+Route,Route,-,Gives either the route name (trolley) or street name (bus),"Incomplete, does not account for overlapping routes"
+Peak_Freq,Peak_Freq,Minutes,1930 AM peak frequency (aka headway) along each segment,
+Opeak_Freq,Opeak_Freq,Minutes,1930 midday frequency (aka headway) along each segment,
+Type1910,Type_17,,"Type of vehicle running along each segment as of Jan. 1, 1917","Can be used for both 1910 and 1920 maps of the Hartford system, no major changes occurred to the system during this time"
+Type1920,Type_22,,"Type of vehicle running along each segment as of Jan. 1, 1922",
+Type1930,Type_31,,"Type of vehicle running along each segment as of Jan. 1, 1931",Can be used for a 1930 map of the Hartford system
+Type1940,Type_40,,"Type of vehicle running along each segment as of Jan. 1, 1940",
+Type1950,Type_50,,"Type of vehicle running along each segment as of Jan. 1, 1950",Incomplete
+Type1960,Type_60,,"Type of vehicle running along each segment as of Jan. 1, 1960",Incomplete
+Type1970,Type_70,,"Type of vehicle running along each segment as of Jan. 1, 1970",Incomplete
+Type1980,Type_80,,"Type of vehicle running along each segment as of Jan. 1, 1980",Incomplete
+Mileage,Mileage,Miles,Shape length in miles,
+Peak1940,Peak_40,Minutes,1940 AM peak frequency (aka headway) along each segment,
+OffPeak1940,Offpeak_40,Minutes,1940 midday frequency (aka headway) along each segment,
+Peak1920,Peak_20,Minutes,1920 AM peak frequency (aka headway) along each segment,
+OffPeak1920,Offpeak_20,Minutes,1920 midday frequency (aka headway) along each segment,
+Peak1910,Peak_10,Minutes,1910 AM peak frequency (aka headway) along each segment,
+OffPeak1910,Offpeak_10,Minutes,1910 midday frequency (aka headway) along each segment,
+,,,,
+"Data compiled by Adam Polinski, “Transit Era Hartford: Using the Past to Plan the Future.” Master’s thesis, University of Connecticut-Storrs, 2015. http://digitalcommons.uconn.edu/gs_theses/856.",,,,
+"Data original in GIS shapefile format, donated by Polinski to UConn Libraries MAGIC http://magic.lib.ucon.edu",,,,
+"Data converted to GeoJSON format in 2016 by Jack Dougherty, Trinity College, for http://OnTheLine.trincoll.edu book project, with permission of Adam Polinski.",,,,

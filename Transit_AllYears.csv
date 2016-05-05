@@ -1,0 +1,163 @@
+Route,Type1910,Type1920,Type1930,Type1940,Type1950,Type1960,Type1970,Type1980,OffPeak1910,Peak1910,OffPeak1920,Peak1920,OffPeak1940,Peak1940,Peak_Freq,Opeak_Freq,Mileage
+West Hartford,Trolley,Trolley,Trolley,Bus,,,,,10,10,10,10,0,0,5,5,1.37668927895
+Vine St,Trolley,Trolley,Trolley,Trolley,,,,,20,20,15,15,20,10,12,12,1.33730364517
+Windsor Ave,Trolley,Trolley,Trolley,Trolley,,,,,15,15,15,15,15,12,15,15,1.07440049786
+Barbour St,Trolley,Trolley,Trolley,Trolley,,,,,15,15,10,10,15,12,10,10,1.17289456704
+Park St,Trolley,Trolley,Both,Both,,,,,20,20,10,10,15,12,12,12,0.842054734141
+Broad St,Trolley,Trolley,Bus,Bus,,,,,10,10,10,10,0,0,0,0,1.27766874124
+Zion St,Trolley,Trolley,Trolley,Bus,,,,,20,20,10,10,0,0,12,12,1.19316060952
+Cedar Hill,Trolley,Trolley,Trolley,Bus,,,,,30,30,30,15,0,0,20,20,1.06517319161
+Franklin Ave,Trolley,Trolley,Trolley,Trolley,,,,,15,15,10,10,10,10,10,10,1.70100526989
+New Britain,Trolley,Trolley,Trolley,Both,,,,,30,30,15,30,20,10,20,20,0.880458175361
+Vernon St,Trolley,Trolley,NA,NA,,,,,30,30,30,30,0,0,0,0,0.209684740276
+Huyshope Ave,Trolley,Trolley,Trolley,Trolley,,,,,20,20,30,30,0,20,30,30,0.806264254225
+Ashley St,Trolley,Trolley,Trolley,Bus,,,,,10,10,10,10,0,0,10,15,1.05672988157
+Asylum Ave,Trolley,Trolley,Bus,Bus,,,,,10,10,10,10,0,0,0,0,0.867117291633
+Rainbow,Trolley,Trolley,Bus,Bus,,,,,60,60,30,30,0,0,0,0,5.75687515888
+East Hartford,Trolley,Trolley,Trolley,Bus,,,,,10,10,10,8,0,0,10,30,1.67662896467
+East Windsor Hill,Trolley,Trolley,Trolley,Bus,,,,,30,30,60,60,0,0,30,60,4.52972724222
+South Glastonbury,Trolley,Trolley,Bus,Bus,,,,,30,30,30,30,0,0,0,0,4.0281060651
+Prospect Ave S,Trolley,Trolley,Trolley,NA,,,,,20,20,20,20,0,0,20,20,0.368358341347
+Wethersfield Ave,Trolley,Trolley,Both,Both,,,,,15,15,15,15,10,10,10,10,1.42961132478
+New Park Ave,Trolley,Trolley,Trolley,Bus,,,,,30,30,30,30,0,0,20,20,1.15628897042
+Newington,Trolley,Trolley,Trolley,Bus,,,,,30,30,15,30,0,0,20,30,1.83609053714
+Manchester Depot,Trolley,Trolley,Bus,Bus,,,,,0,0,30,30,0,0,0,0,1.19933100921
+Burnside,Trolley,Trolley,Trolley,Bus,,,,,10,10,30,15,0,0,15,30,2.41081616914
+Rockville,Trolley,Trolley,NA,NA,,,,,60,60,60,60,0,0,0,0,13.3419852894
+Pearl St,Trolley,Trolley,Trolley,Bus,,,,,0,0,10,10,0,0,20,20,0.333298685743
+Market St,Trolley,Trolley,Trolley,Both,,,,,5,5,5,5,10,10,10,10,0.0258910204306
+Retreat Ave,Trolley,Trolley,Trolley,Trolley,,,,,30,30,15,15,20,10,20,20,0.446101532762
+Capitol Ave,Trolley,Both,Both,Bus,,,,,15,15,10,10,0,0,20,20,0.548879940066
+Albany Ave,Trolley,Trolley,Bus,Bus,,,,,0,0,30,15,0,0,0,0,1.19967941862
+Blue Hills Ave,Trolley,Trolley,NA,NA,,,,,0,0,30,30,0,0,0,0,2.97198607679
+South Manchester,Trolley,Trolley,Trolley,Bus,,,,,30,30,30,15,0,0,15,30,0.786253968928
+Unionville-Farmington,Trolley,Trolley,Trolley,Bus,,,,,60,30,20,20,0,0,60,60,8.08183796361
+Wethersfield,Trolley,Trolley,Trolley,Trolley,,,,,15,15,15,15,20,10,10,20,1.31819769096
+Main St,Trolley,Trolley,Trolley,Trolley,,,,,15,15,10,10,10,10,10,10,0.212130753658
+Windsor,Trolley,Trolley,Trolley,Bus,,,,,15,15,15,15,0,0,30,30,4.12189151698
+Albany Ave,Trolley,Trolley,Trolley,Both,,,,,15,15,15,15,10,10,10,10,0.564459457338
+Albany Ave,Trolley,Trolley,Trolley,Trolley,,,,,15,15,10,10,10,10,10,10,0.331021825117
+State St,Trolley,Trolley,Trolley,Both,,,,,5,5,5,5,10,10,5,5,0.0985458695713
+High St,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.436841632277
+Albany Ave,Trolley,Trolley,Trolley,Trolley,,,,,15,15,15,15,10,10,10,10,0.450958408003
+Windsor Ave,Trolley,Trolley,Trolley,Trolley,,,,,15,15,10,10,15,12,10,10,0.76639954422
+Main St,Trolley,Both,Both,Both,,,,,15,15,10,10,10,10,10,10,0.307929125644
+Maple Ave,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,1.11791937712
+Campfield Ave,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,1.13081369428
+Sisson Ave,Trolley,Trolley,NA,NA,,,,,30,30,30,30,0,0,0,0,0.663608311648
+Lafayette St,Trolley,NA,NA,NA,,,,,10,10,10,10,0,0,0,0,0.336775465933
+Capitol Ave,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.972229650972
+Main St West Hartford,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,2.84995450773
+Capitol Ave,Trolley,Trolley,Trolley,Bus,,,,,15,15,10,10,0,0,20,20,0.292806145582
+Broad St,Trolley,Both,Both,Bus,,,,,15,15,10,10,0,0,20,20,0.266999148693
+,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.374107778678
+Prospect Ave S,Trolley,Trolley,Trolley,Bus,,,,,20,20,20,20,0,0,20,20,0.166367654027
+Prospect Ave S,Trolley,Both,Both,Bus,,,,,20,20,20,20,0,0,20,20,0.0326017409235
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.798355781037
+Prospect Ave S,Trolley,Trolley,NA,NA,,,,,20,20,20,20,0,0,0,0,0.463576330887
+,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.336257566723
+,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,4.85777108288
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,2.36811337778
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,1.11527059091
+,Trolley,Trolley,Bus,Bus,,,,,20,20,20,20,0,0,0,0,0.55861175899
+New Britain,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.0463427163794
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,1.50395381877
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,1.81313761436
+Main St,Trolley,Trolley,Trolley,Both,,,,,15,15,10,10,10,10,10,10,0.123131990226
+Pearl St,Trolley,Trolley,Trolley,Both,,,,,5,5,5,5,10,10,10,10,0.0742178496144
+South Glastonbury,Trolley,Trolley,Bus,Bus,,,,,30,30,30,30,0,0,0,0,3.81736169765
+Park St,Trolley,Trolley,Trolley,Trolley,,,,,20,20,20,20,15,12,15,15,0.898497223524
+New Park Ave,Trolley,Trolley,Both,Bus,,,,,30,30,20,20,0,0,20,20,0.317117072212
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.445998931499
+Blue Hills Ave,Trolley,Trolley,Trolley,Both,,,,,30,30,15,15,10,10,10,10,1.25500501816
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.773457803121
+New Britain,Trolley,Trolley,Both,Both,,,,,30,30,15,15,20,10,20,20,0.283498908557
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.298397185137
+Maple Ave,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.697951085682
+Maple Ave,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.058308760839
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.641247251645
+Wethersfield Ave,Trolley,Trolley,Trolley,Trolley,,,,,15,15,15,15,10,10,10,10,0.631878722714
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,1.40866591032
+West Hartford,Trolley,Trolley,Trolley,Bus,,,,,5,5,5,5,0,0,5,5,0.705635168321
+West Hartford,Trolley,Trolley,Both,Bus,,,,,5,5,5,5,0,0,5,5,0.0865484098802
+Main St,Trolley,Both,Both,Both,,,,,15,15,10,10,10,10,10,10,0.209657731861
+Main St,Trolley,Both,Both,Both,,,,,15,15,10,10,10,10,10,10,0.119508163146
+,Trolley,Trolley,Bus,Bus,,,,,60,60,60,60,0,0,0,0,9.93672742531
+,Other,NA,NA,NA,,,,,0,0,0,0,0,0,0,0,12.9323683351
+,Trolley,Trolley,Trolley,NA,,,,,30,30,15,30,0,0,20,30,0.929536214724
+Griswoldville,Trolley,Trolley,Trolley,Trolley,,,,,0,0,30,60,30,30,30,30,2.49914730284
+,Trolley,Trolley,Bus,Bus,,,,,60,60,60,60,0,0,0,0,7.1170553481
+,Trolley,Trolley,Bus,Bus,,,,,0,0,30,60,0,0,0,0,8.26307259975
+,Trolley,Trolley,Trolley,NA,,,,,30,30,15,30,0,0,20,30,3.73349020685
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.85175136813
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.640852050327
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,6.34231205112
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.74618107318
+,Trolley,Trolley,Bus,Bus,,,,,60,60,60,60,0,0,0,0,4.98415614333
+,Trolley,Trolley,Bus,Bus,,,,,60,60,60,60,0,0,0,0,2.33668702996
+Manchester Green,Trolley,Trolley,Bus,Bus,,,,,0,0,60,60,0,0,0,0,1.37812304772
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,8.40401917493
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,1.3205432954
+,NA,NA,Bus,Bus,,,,,0,0,0,0,0,0,0,0,1.62186311134
+Blue Hills Ave,Trolley,Trolley,NA,NA,,,,,0,0,30,30,0,0,0,0,1.11053977701
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,1.38645163689
+,Other,NA,NA,NA,,,,,0,0,0,0,0,0,0,0,4.96838497318
+East Windsor Hill,Trolley,Trolley,Trolley,Bus,,,,,30,30,30,30,0,0,30,30,0.978316304337
+East Windsor Hill,Trolley,Trolley,Trolley,Bus,,,,,10,10,30,15,0,0,10,30,0.37497194225
+West Hartford,Trolley,Trolley,Trolley,Bus,,,,,5,5,5,5,0,0,5,5,1.07549134262
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,0.986794620061
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,0.221578503385
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,1.05802475911
+Oakwood,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,1.17788574222
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,2.52845755667
+,Trolley,Trolley,Trolley,Bus,,,,,30,30,15,30,0,0,20,30,1.02088918547
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,0.450021421004
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,0.332712861037
+Blue Hills Ave,Trolley,Trolley,Trolley,Trolley,,,,,30,30,15,15,10,10,10,10,0.803450138872
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,3.21248232709
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,1.31758933389
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,1.1481007135
+New Britain,Trolley,Trolley,Trolley,Both,,,,,30,30,30,30,20,20,20,20,1.32869502257
+Trinity St,Trolley,Trolley,Trolley,Bus,,,,,10,10,10,10,0,0,20,20,0.298297436777
+West Hartford,Trolley,Trolley,Trolley,Bus,,,,,5,5,5,5,0,0,5,5,0.379957277464
+,Trolley,Trolley,Bus,Bus,,,,,10,10,10,10,0,0,0,0,0.0852564506345
+East Hartford,Trolley,Trolley,Trolley,Both,,,,,0,0,10,8,10,10,5,5,0.0443346740147
+Main St,Trolley,Trolley,Trolley,Both,,,,,5,5,5,5,10,10,10,10,0.0415962228516
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,0.268778864598
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,2.71927546097
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,2.85211699864
+Burnside,Trolley,Trolley,Trolley,Bus,,,,,30,30,30,15,0,0,15,30,2.22764496395
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,0.65832727132
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,0.645856603116
+New Park Ave,Trolley,Trolley,Trolley,NA,,,,,30,30,30,30,0,0,20,20,0.15089309882
+Main St West Hartford,NA,Bus,Bus,Bus,,,,,0,0,0,0,0,0,0,0,0.734210161254
+,Trolley,Trolley,Bus,Bus,,,,,0,0,30,60,0,0,0,0,1.83233780805
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,1.0280773824
+,NA,NA,NA,Bus,,,,,0,0,0,0,0,0,0,0,0.607120184706
+Main St,Trolley,Both,Both,Both,,,,,15,15,10,10,10,10,10,10,0.12960791151
+Blue Hills Ave,Trolley,Trolley,Trolley,Trolley,,,,,0,0,30,30,30,30,15,15,0.628104871461
+Albany Ave,Trolley,Trolley,Trolley,Trolley,,,,,15,15,15,15,10,10,10,10,0.274441663557
+Albany Ave,Trolley,Trolley,Trolley,Both,,,,,0,0,30,15,20,10,10,10,0.162495739841
+Unionville-Farmington,Trolley,Trolley,Trolley,Bus,,,,,60,30,20,20,0,0,10,15,1.22645083616
+Park St,Trolley,Trolley,Both,Both,,,,,20,20,20,20,15,12,15,15,0.251099167529
+Main St,Trolley,Both,Both,Both,,,,,15,15,10,10,10,10,10,10,0.0692319832973
+Burnside,Trolley,Trolley,Trolley,Bus,,,,,20,20,30,15,0,0,15,30,1.92453396775
+East Windsor Hill,Trolley,Trolley,Trolley,Bus,,,,,30,30,30,30,0,0,30,60,0.822325774442
+New Britain,Trolley,Trolley,Trolley,Both,,,,,30,30,15,15,20,10,20,20,0.571516157746
+New Britain,Trolley,Trolley,Trolley,Both,,,,,30,30,15,30,20,10,20,20,0.143016038746
+Park St,Trolley,Trolley,Trolley,Trolley,,,,,15,15,20,20,15,12,15,15,0.461917487978
+Park St,Trolley,Trolley,Both,Both,,,,,15,15,10,10,15,12,15,15,0.489224902128
+Prospect Ave S,Trolley,Trolley,NA,NA,,,,,20,20,20,20,0,0,0,0,0.34913917338
+Prospect Ave S,Trolley,Trolley,Trolley,NA,,,,,20,20,20,20,0,0,20,20,0.068199135019
+Park St,Trolley,Trolley,Both,Both,,,,,20,20,20,20,15,12,12,12,0.842054734141
+,,,,,,,,,0,0,20,20,0,0,0,0,0
+West Hartford,Trolley,Trolley,Trolley,Bus,,,,,5,5,5,5,0,0,5,5,0.705635168321
+,,,,,,,,,0,0,15,15,0,0,0,0,0
+,Trolley,Trolley,Bus,Bus,,,,,60,60,60,60,0,0,0,0,2.33668702996
+Broad St,Trolley,Trolley,Bus,Bus,,,,,0,0,10,10,0,0,0,0,1.27766874124
+Broad St,Trolley,Trolley,Bus,Bus,,,,,0,0,10,10,0,0,0,0,1.27766874124
+Park St,Trolley,Trolley,Both,Both,,,,,10,10,10,10,15,12,12,12,0.842054734141
+,,,,,,,,,30,30,0,0,0,0,0,0,0
+,,,,,,,,,30,30,0,0,0,0,0,0,0
+,,,,,,,,,20,20,0,0,0,0,0,0,0
+,,,,,,,,,60,60,0,0,0,0,0,0,0
