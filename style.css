@@ -17,7 +17,7 @@
 /* Edit width based on number of tabs to display
 For example, width = 9% for 10 tabs + cell borders; width = 19.5% for 5 tabs + cell borders */
 .tabItem {
-    width: 24%;
+    width: 19.5%;
     padding: 2px 0px 2px 0px;
     float: left;
     margin-left: -1px;
@@ -89,7 +89,7 @@ For example, width = 9% for 10 tabs + cell borders; width = 19.5% for 5 tabs + c
 }
 /*Edit width of legend*/
 .legend {
-    width: 100px;
+    width: 150px;
     position: absolute;
     right: 0px;
     bottom: 10px;

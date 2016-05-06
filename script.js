@@ -1,6 +1,6 @@
 // Edit the initial year and number of tabs to match your GeoJSON data and tabs in index.html
 var year = "1910";
-var tabs = 4;
+var tabs = 5;
 
 // Edit the center point and zoom level
 var map = L.map('map', {
@@ -26,7 +26,7 @@ var controlLayers = L.control.layers( null, null, {
 }).addTo(map);
 
 // Edit to upload GeoJSON data file from your local directory
-$.getJSON("Transit_AllYears.geojson", function (data){
+$.getJSON("Transit-1910-43.geojson", function (data){
   geoJsonLayer = L.geoJson(data, {
     style: style,
     onEachFeature: onEachFeature
@@ -86,8 +86,14 @@ info.onAdd = function (map) {
 // Edit info box labels (such as props.town) to match properties of the GeoJSON data
 info.update = function (props) {
   var winName =
-  this._div.innerHTML = (props ?
-    '<div class="areaName">' + props.Route + '</div>' : '<div class="areaName faded"><small>Hover for route info</small></div>') + '<div class="areaLabel"><div class="areaValue">Trolley or Bus:</div>' +(props ? '' + (checkNull(props["Type" + year])) : '--') + '</div>';
+  this._div.innerHTML =
+  (props ? '<div class="areaLabel">' +
+    (props ? '<div class="areaLabel">Route: ' + (checkNull(props.Route)) : '--') +
+    '</div>' :
+      '<div class="areaLabel">Hover for route info</div>') +
+  '<div class="areaLabel">Trolley or Bus: ' +(props ? '' + (checkNull(props["Type" + year])) : '--') + '</div>' +
+  '<div class="areaLabel">Peak service: every '  +(props ? '' + (checkNull(props["Peak" + year])) + ' min' : '--') + '</div>';
+    //  '<div class="areaName">' + props.Route + '</div>' : '<div class="areaName faded"><small>Hover for route info</small></div>') + 'Peak service: every ' +(props ? '' + (checkNull(props["Peak" + year])) + ' min' : '--') + '</div>';
 };
 info.addTo(map);
 
