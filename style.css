@@ -3,21 +3,21 @@
     font-family: Arial, sans-serif;
 }
 /* Edit top to fit tabBar height: 35px */
-/* Edit height to display full map: 500px */
+/* Edit height to display full map: 400px */
 #map {
     position: absolute;
     left: 0;
     top: 35px;
     width: 100%;
-    height: 500px;
+    height: 400px;
 }
 .tabBar {
     font: 14px/16px Arial, Helvetica, sans-serif;
 }
 /* Edit width based on number of tabs to display
-For example, width = 9% for 10 tabs + cell borders; width = 19.5% for 5 tabs + cell borders */
+For example, width = 9% for 11 tabs + cell borders; width = 19.8% for 5 tabs + cell borders */
 .tabItem {
-    width: 19.5%;
+    width: 19.8%;
     padding: 2px 0px 2px 0px;
     float: left;
     margin-left: -1px;
