@@ -20,3 +20,4 @@ OffPeak1940,Offpeak_40,Minutes,1940 midday frequency (aka headway) along each se
 "Data compiled by Adam Polinski, ""Transit Era Hartford: Using the Past to Plan the Future."" Master's thesis, University of Connecticut-Storrs, 2015. http://digitalcommons.uconn.edu/gs_theses/856.",,,,
 "Data original in GIS shapefile format, donated by Polinski to UConn Libraries MAGIC http://magic.lib.ucon.edu",,,,
 "Data converted to GeoJSON format in 2016 by Jack Dougherty, Trinity College, for http://OnTheLine.trincoll.edu book project, with permission of Adam Polinski.",,,,
+"Note that GeoJSON IDs do not necessarily match GIS shapefile FIDs. GeoJSON file contains blanks to replace ""NA"" and zeroes in GIS shapefile.",,,,

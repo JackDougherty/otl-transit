@@ -93,7 +93,6 @@ info.update = function (props) {
       '<div class="areaLabel">Hover for route info</div>') +
   '<div class="areaLabel">Trolley or Bus: ' +(props ? '' + (checkNull(props["Type" + year])) : '--') + '</div>' +
   '<div class="areaLabel">Peak service: every '  +(props ? '' + (checkNull(props["Peak" + year])) + ' min' : '--') + '</div>';
-    //  '<div class="areaName">' + props.Route + '</div>' : '<div class="areaName faded"><small>Hover for route info</small></div>') + 'Peak service: every ' +(props ? '' + (checkNull(props["Peak" + year])) + ' min' : '--') + '</div>';
 };
 info.addTo(map);
 
