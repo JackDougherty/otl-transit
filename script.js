@@ -11,11 +11,11 @@ var map = L.map('map', {
 
 // Edit links to your GitHub repo and data source credit
 map.attributionControl
-.setPrefix('View <a href="http://github.com/jackdougherty/otl-transit" target="_blank">data and code on GitHub</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>; design by <a href="http://ctmirror.org">CT Mirror</a>');
+.setPrefix('View <a href="http://github.com/jackdougherty/otl-transit" target="_blank">data and code on GitHub</a>, with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>; design by <a href="http://ctmirror.org">CT Mirror</a>');
 
 // Basemap layer
 new L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
+  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
 }).addTo(map);
 
 // optional: add legend to toggle any baselayers and/or overlays
@@ -24,6 +24,8 @@ var controlLayers = L.control.layers( null, null, {
   position: "bottomright", // suggested: bottomright for CT (in Long Island Sound); topleft for Hartford region
   collapsed: false // false = open by default
 }).addTo(map);
+
+L.control.scale().addTo(map);
 
 // Edit to upload GeoJSON data file from your local directory
 $.getJSON("Transit-1910-43.geojson", function (data){
@@ -109,14 +111,9 @@ $(".tabItem").click(function() {
 // UConn MAGIC WMS settings - see http://geoserver.lib.uconn.edu:8080/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage
 var aerial1934 = new L.tileLayer.wms("http://geoserver.lib.uconn.edu:8080/geoserver/MAGIC/wms?", {
   layers: 'MAGIC:1934 Connecticut Aerial Photography',
-  format: 'image/png',
-  version: '1.1.0',
-  transparent: true,
   attribution: '1934 <a href="http://magic.library.uconn.edu">MAGIC UConn</a> and <a href="http://cslib.org">CSL</a>'
 });
 controlLayers.addOverlay(aerial1934, '1934 aerial map');
-
-
 
 // In info.update, this checks if GeoJSON data contains a null value, and if so displays "--"
 function checkNull(val) {
