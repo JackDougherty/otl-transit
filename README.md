@@ -4,14 +4,14 @@ historical trolley and bus transit data in Hartford CT with modified version of 
 ## Links
 
 - Demo with title and caption
-http://jackdougherty.github.io/otl-transit/index-frame.html
+https://jackdougherty.github.io/otl-transit/index-frame.html
 
 - Shortcode to embed in http://OnTheLine.trincoll.edu
-- [iframe src='http://jackdougherty.github.io/otl-transit/index.html' width=100% height=535]
+- [iframe src='https://jackdougherty.github.io/otl-transit/index.html' width=100% height=535]
 
 ## Based on template
 
-- http://github.com/jackdougherty/leaflet-map-polygon-tabs
+- https://github.com/jackdougherty/leaflet-map-polygon-tabs
 
 ## Data source
 
